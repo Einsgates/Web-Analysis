@@ -1,0 +1,20 @@
+======================================ClamAV======================================
+
+Saturday, 13 June 2020 08:43:43PM
+
+--------------------------------------------------------------------------------------------------------------------
+
+/root/yuanban/beifen1/tmp/4/5./http%3A%2F%2F45.95.168.207%2Fbins%2Fc0r0n4x.mpsl/http%3A%2F%2F45.95.168.207%2Fbins%2Fc0r0n4x.mpsl: Unix.Dropper.Mirai-7135826-0 FOUND
+/root/yuanban/beifen1/tmp/4/5./http%3A%2F%2F45.95.168.207%2Fbins%2Fc0r0n4x.mpsl/http%3A%2F%2F45.95.168.207%2Fbins%2Fc0r0n4x.mpsl: Unix.Dropper.Mirai-7135826-0 FOUND
+
+----------- SCAN SUMMARY -----------
+Known viruses: 7171399
+Engine version: 0.102.2
+Scanned directories: 20
+Scanned files: 42
+Infected files: 1
+Data scanned: 10.74 MB
+Data read: 4.62 MB (ratio 2.32:1)
+Time: 21.499 sec (0 m 21 s)
+Scanning time with ClamAV engine was: (21.520868062973022, 'seconds')
+
